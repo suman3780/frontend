@@ -1,0 +1,67 @@
+[
+  { "Investment": "Tiffany & Co.", "Money": "$143.55" },
+  { "Investment": "Green Plains, Inc.", "Money": "$780.35" },
+  { "Investment": "James River Group Holdings, Ltd.", "Money": "$994.68" },
+  { "Investment": "Surgery Partners, Inc.", "Money": "$527.98" },
+  { "Investment": "Comcast Corporation", "Money": "$730.48" },
+  { "Investment": "Envision Healthcare Corporation", "Money": "$968.60" },
+  { "Investment": "National Presto Industries, Inc.", "Money": "$748.43" },
+  {
+    "Investment": "Voya International High Dividend Equity Income Fund",
+    "Money": "$661.87"
+  },
+  { "Investment": "Westpac Banking Corporation", "Money": "$766.60" },
+  { "Investment": "The9 Limited", "Money": "$648.90" },
+  { "Investment": "Okta, Inc.", "Money": "$760.58" },
+  {
+    "Investment": "Wells Fargo Global Dividend Opportunity Fund",
+    "Money": "$456.49"
+  },
+  { "Investment": "Verifone Systems, Inc.", "Money": "$356.99" },
+  { "Investment": "New Senior Investment Group Inc.", "Money": "$88.65" },
+  { "Investment": "Ocular Therapeutix, Inc.", "Money": "$4.36" },
+  { "Investment": "FutureFuel Corp.", "Money": "$254.94" },
+  { "Investment": "RealNetworks, Inc.", "Money": "$782.38" },
+  { "Investment": "PartnerRe Ltd.", "Money": "$15.97" },
+  { "Investment": "China Automotive Systems, Inc.", "Money": "$102.40" },
+  { "Investment": "DaVita Inc.", "Money": "$793.64" },
+  { "Investment": "The Community Financial Corporation", "Money": "$921.05" },
+  { "Investment": "Zogenix, Inc.", "Money": "$394.31" },
+  { "Investment": "First Acceptance Corporation", "Money": "$555.14" },
+  { "Investment": "Ares Capital Corporation", "Money": "$727.02" },
+  { "Investment": "Eastman Kodak Company", "Money": "$473.35" },
+  { "Investment": "Choice Hotels International, Inc.", "Money": "$67.73" },
+  { "Investment": "Digiliti Money Group, Inc.", "Money": "$695.92" },
+  { "Investment": "Crown Crafts, Inc.", "Money": "$581.14" },
+  { "Investment": "Asia Pacific Fund, Inc. (The)", "Money": "$504.57" },
+  { "Investment": "Eastern Company (The)", "Money": "$676.40" },
+  { "Investment": "Macquarie/First Trust Global", "Money": "$328.85" },
+  { "Investment": "Polaris Industries Inc.", "Money": "$964.21" },
+  { "Investment": "Colony Bankcorp, Inc.", "Money": "$958.87" },
+  {
+    "Investment": "Lincoln Educational Services Corporation",
+    "Money": "$951.35"
+  },
+  { "Investment": "Berkshire Hills Bancorp, Inc.", "Money": "$836.33" },
+  { "Investment": "Alexandria Real Estate Equities, Inc.", "Money": "$664.98" },
+  { "Investment": "Vanda Pharmaceuticals Inc.", "Money": "$918.82" },
+  { "Investment": "Cesca Therapeutics Inc.", "Money": "$779.69" },
+  {
+    "Investment": "Centrais Electricas Brasileiras S.A.- Eletrobras",
+    "Money": "$504.20"
+  },
+  { "Investment": "Herman Miller, Inc.", "Money": "$283.47" },
+  { "Investment": "Argos Therapeutics, Inc.", "Money": "$851.17" },
+  { "Investment": "California Resources Corporation", "Money": "$118.69" },
+  { "Investment": "Toll Brothers Inc.", "Money": "$693.32" },
+  { "Investment": "Clean Diesel Technologies, Inc.", "Money": "$924.31" },
+  { "Investment": "Public Storage", "Money": "$361.70" },
+  { "Investment": "AllianzGI Convertible & Income Fund", "Money": "$165.36" },
+  {
+    "Investment": "PowerShares 1-30 Laddered Treasury Portfolio",
+    "Money": "$512.28"
+  },
+  { "Investment": "MTGE Investment Corp.", "Money": "$212.61" },
+  { "Investment": "Viacom Inc.", "Money": "$412.92" },
+  { "Investment": "Unum Group", "Money": "$987.00" }
+]
